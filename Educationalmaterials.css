@@ -1,0 +1,21 @@
+.head{
+    text-align: center;
+}
+
+
+.topsection{
+ display: flex;
+ padding-left:20%;
+ }
+
+ .sub1{
+       flex: 33.33%;
+        padding-right:20%;
+ }
+
+ .dbutt{
+    color:black;
+    font-size:36px;
+ }
+  
+  

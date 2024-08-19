@@ -1,0 +1,60 @@
+img{
+    width:70%;
+    height:400px;
+    padding-left: 200px;
+}
+
+.sub{
+    padding-top:40px;
+    font-size:20px;
+}
+
+.navigator{
+    margin-top:50px;
+    display: flex;
+    width:100%;
+}
+
+.edm
+{
+    width: 25%;
+    height: 50px;
+    border: none;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+.org
+{
+    width: 25%;
+    height: 50px;
+    border: none;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+.multi
+{
+    width: 25%;
+    height: 50px;
+    border: none;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+.interactivetool
+{
+    width: 25%;
+    height: 50px;
+    border: none;
+    font-weight: bold;
+    font-size: large;
+    margin-top: -5px;
+    cursor: pointer;
+}
