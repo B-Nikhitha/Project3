@@ -3,56 +3,6 @@ body {
     margin: 0;
     padding: 0;
 }
-.nav{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    background-color: aqua;
-    height:50px;
-    list-style-type:none;
-}
-a{
-    font-size: 28px;
-    font-weight: bold;
-    text-decoration: none;
-    color:black;    
-}
-li{
-    display: inline;
-}
-li:hover{
-    background-color: rgb(15, 227, 227);
-    border-radius: 15px;
-}
-.one{
-    margin-left: 730px;
-}
-.one:hover{
-    height: 35px;
-    width:90px;
-}
-.two{
-    margin-left: 90px;
-}
-.two:hover{
-    height: 35px;
-    width:140px;
-}
-.three{
-    margin-left: 90px;
-}
-.three:hover{
-    height: 35px;
-    width:120px;
-}
-.four{
-    margin-left: 90px;
-}
-.four:hover{
-    height: 35px;
-    width:150px;
-}
 .header {
     display: flex;
     align-items: center;
